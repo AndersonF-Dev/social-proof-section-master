@@ -13,7 +13,7 @@ Esta é uma solução para o [Desafio da seção de prova social no Frontend Men
 ### Link
 
 
-- URL do site ativo: [link aqui](https://andersonf-dev.github.io/3-column-preview-card-component/)
+- URL do site ativo: [link aqui](https://andersonf-dev.github.io/social-proof-section-master/)
 
 
 
